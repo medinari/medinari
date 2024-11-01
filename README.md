@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning the analysis of single-cell RNA sequencing (scRNA-seq) data
 - 💞️ I’m looking to collaborate on projects related to scRNA-seq but also in bio/chemoinformatics
 - 📫 How to reach me: ricardo.medina@icloud.com
-- 😄 Pronouns: Ricardo Medina
+- 😄 Pronouns: Ricardo AO Medina
 
 <!---
 medinari/medinari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
