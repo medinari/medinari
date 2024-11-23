@@ -1,33 +1,35 @@
 # 👋 Welcome to Ricardo A.O. Medina's GitHub Profile
 
 ## 🧬 About Me
-I am a **veterinarian, immunologist, and bioinformatics enthusiast** with a multidisciplinary background in biology, molecular biotechnology, and microbial research. With over eight years of experience in academia and research institutions, I specialize in **immunology**, **vaccine development**, and **bioinformatics**, leveraging both experimental and computational methods.
+**Professional Background:**  
+Ricardo A. Orbegozo Medina is a **veterinarian** with a strong interest in **clinical microbiology**, particularly in developing **diagnostic tools** and **treatments** for emerging diseases.  
 
-My passion lies in addressing complex biological problems through **cutting-edge technologies** and collaborative research, particularly in immunology and the development of vaccines for zoonotic diseases.
+**Research Experience (2010–2020):**  
+During his time in Spain, he contributed to research projects focusing on:  
+  - Development of **diagnostic methods**.  
+  - Creation of **protein- and peptide-based vaccines**.  
+  - Study of **vaccine adjuvants**.  
+  - Conducting **efficacy trials in animal models**, including **sheep** and **inbred mice**.  
 
-## 🔬 Areas of Expertise
-- **Vaccine Development:** 
-   - Development and testing of chimeric proteins and peptides as vaccine candidates.
-   - Preclinical trials using **animal models** (mice and sheep).
-   - Experience with adjuvants, antigen design, and monoclonal antibody production.
+**Current Research:**  
+Based in **Austria**, Ricardo works on projects aimed at understanding the **mechanisms of T-cell exhaustion**, a critical aspect of:  
+  - **Chronic viral infections**.  
+  - **Cancer immunology** and advancing **immunotherapy**.  
 
-- **Molecular and Cellular Biology:**
-   - Expertise in **protein engineering**, including recombinant protein design and purification.
-   - Practical knowledge in immunological techniques such as **ELISA**, **Western Blotting**, and T-cell response assays.
+**Informatics Enthusiast:**  
+Passionate about the transformative impact of **high-throughput sequencing** and **bioinformatics** in microbiology.  
+  - Particularly interested in **artificial intelligence (AI)** and **machine learning** to:  
+    - Process large datasets.  
+    - Improve diagnostic precision.  
+    - Predict disease outbreaks.  
+    - Identify vaccine antigens.  
 
-- **Genomics and Proteomics:**
-   - Identification of vaccine candidates using **proteomic approaches**.
-   - Proficiency in **DNA extraction**, **PCR-based gene identification**, and **MS/MS data analysis**.
+**Ongoing Education:**  
+Currently pursuing a **master's degree in bioinformatics** to:  
+  - Use computational tools for modeling infection dynamics and immune responses.  
+  - Develop more effective **treatments** and **vaccines**.  
+  - Promote **alternatives to animal testing** and advance **in vitro models**.  
 
-- **Bioinformatics:**
-   - Computational modeling for protein bioactivity and vaccine targets.
-   - Experience with **NGS workflows**, **data analysis in Python and R**, and molecular visualization tools like **PyMOL**.
-
-## 🌟 What I’m Looking For
-I am open to collaborating on:
-- Academic and industry projects focused on **vaccine development**, **immunology**, and **bioinformatics**.
-- Computational approaches for understanding pathogen-host interactions or identifying therapeutic targets.
-- Mentorship and teamwork opportunities to advance novel research.
 
 ## 📜 Selected Publications
 Here are a few of my peer-reviewed contributions to science:
@@ -37,7 +39,7 @@ Here are a few of my peer-reviewed contributions to science:
 <!-- 4. [More Publications Here](Insert Personal Website or ORCID) -->
 
 ## 🛠 Skills
-- **Programming:** Python, R, Linux Shell
+- **Programming:** Python, R statistics, GNU/Linux Shell
 - **Immunology Techniques:** ELISA, PBMC isolation, antibody purification
 - **Bioinformatics Tools:** Biopython, RDkit, PyMOL, MASCOT
 - **Statistical Analysis:** Multivariate data analysis, ROC curves
