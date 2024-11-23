@@ -1,4 +1,4 @@
-# 👋 Welcome to Ricardo A. Orbegozo Medina's GitHub Profile
+# 👋 Welcome to Ricardo A.O. Medina's GitHub Profile
 
 ## 🧬 About Me
 I am a **veterinarian, immunologist, and bioinformatics enthusiast** with a multidisciplinary background in biology, molecular biotechnology, and microbial research. With over eight years of experience in academia and research institutions, I specialize in **immunology**, **vaccine development**, and **bioinformatics**, leveraging both experimental and computational methods.
