@@ -1,6 +1,6 @@
 # 👋 Welcome to Ricardo A.O. Medina's GitHub Profile
 
-## 🧬 About Me
+## 🧬 About
 **Professional Background:**  
 Ricardo A. Orbegozo Medina is a **veterinarian** with a strong interest in **clinical microbiology**, particularly in developing **diagnostic tools** and **treatments** for emerging diseases.  
 
