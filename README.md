@@ -4,7 +4,7 @@
 
 **Professional Background:**  
 
-Ricardo AO Medina is a **veterinarian** interested in **clinical microbiology** and **computer science** advances. He holds a PhD in **microbiology and parasitology**, specializing in the development of diagnostic tools and treatments for emerging zoonotic diseases. With extensive experience in **animal models** and **vaccine development**, he is currently pursuing a master's in **bioinformatics** to study the immune system in **genetically engineered mice**, accelerate **drug development**, and promote **alternatives to animal testing**.
+Ricardo AO Medina is a **veterinarian** interested in **clinical microbiology** and **computer science** advances. He holds a PhD in **microbiology and parasitology**, with experience in **animal models** and **vaccine development**. He is currently pursuing a master's in **bioinformatics** to study the immune system in **genetically engineered mice**, accelerate **drug development**, and promote **alternatives to animal testing**.
 
 **Research Experience:**  
 
